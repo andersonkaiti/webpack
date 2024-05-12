@@ -1,0 +1,20 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #6d6d6d;
+    border: none;
+    color: #fff;
+    margin: 1em;
+    padding: 1em;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: #000;
+}

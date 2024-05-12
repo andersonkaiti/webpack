@@ -1,0 +1,1 @@
+!function(){"use strict";var e=document.querySelector(".pagination"),n=document.querySelector(".sorting");e.addEventListener("click",(function(){})),n.addEventListener("click",(function(){}))}();
